@@ -3,11 +3,11 @@
 
 <h3 align="center">A passionate AIML Engineer and Data Analyst</h3>
 
-- 🔭 I’m currently pursuing **B.Tech Artificial Intelligence and Machine Learning**
+- 🔭 I’m completed by UG in  **B.Tech Artificial Intelligence and Machine Learning**
 
-- 🌱 I’m currently learning **Data Analytics , Data Structures**
+- 🌱 I currently learning about **LLM, RAG, LangChain, Agents, Agentic Ai**
 
-- 🤝 I’m looking for help with **preparation for placements**
+- 🤝 I’m good at **Devloping ML models and Data Analysis and Front-end**
 
 - 📫 How to reach me **kamaleshvlk27@gmail.com**
 
